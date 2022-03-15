@@ -1,0 +1,59 @@
+body {
+  margin: 40px 77px 40px;
+}
+
+nav {
+  text-transform: uppercase;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 25px;
+}
+
+.scarecrow_main {
+  margin-top: 265px;
+  display: flex;
+}
+
+.scarecrow_main_text {
+  margin-left: 120px;
+}
+
+img {
+  width: 50%;
+}
+
+h1 {
+  font-size: 64px;
+  font-weight: bold;
+  line-height: 95px;
+  margin: 0;
+}
+
+p {
+  width: 381px;
+  font-size: 24px;
+  line-height: 36px;
+  font-weight: 400;
+  color: #4f4f4f;
+}
+
+button {
+  color: #ffffff;
+  background-color: #333333;
+  border: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  padding: 24px 43px 23px;
+  margin-top: 40px;
+}
+
+footer {
+  margin-top: 308px;
+  text-align: center;
+  color: #bdbdbd;
+}
+
+footer > span {
+  font-weight: bold;
+  border-bottom: 1px solid #bdbdbd;
+}
